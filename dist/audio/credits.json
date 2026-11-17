@@ -1,0 +1,38 @@
+{
+  "spring": {
+    "title": "Tafi Maradi no voice",
+    "artist": "Kevin MacLeod",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100740",
+    "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Tafi%20Maradi%20no%20voice.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Re-encoded to 96 kbps MP3, loudness normalized, short fade-in added; playback loops with a crossfade."
+  },
+  "summer": {
+    "title": "Sunshine (version 2)",
+    "artist": "Kevin MacLeod",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100628",
+    "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sunshine%20ver%202.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Re-encoded to 96 kbps MP3, loudness normalized, short fade-in added; playback loops with a crossfade."
+  },
+  "fall": {
+    "title": "Folk Round",
+    "artist": "Kevin MacLeod",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100357",
+    "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Folk%20Round.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Re-encoded to 96 kbps MP3, loudness normalized, short fade-in added; playback loops with a crossfade."
+  },
+  "winter": {
+    "title": "We Wish you a Merry Christmas",
+    "artist": "Kevin MacLeod",
+    "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100369",
+    "download": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/We%20Wish%20You.mp3",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Re-encoded to 96 kbps MP3, loudness normalized, short fade-in added; playback loops with a crossfade."
+  }
+}
